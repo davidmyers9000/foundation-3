@@ -6,8 +6,8 @@
   ],
   "description": "foundation version 3 for ie8 compatability",
   "main": [
-    "javascripts/foundation.min.js, 
-    stylesheets/foundation.css"
+    "javascripts/foundation.min.js", 
+    "stylesheets/foundation.css"
   ],
   "dependencies": {
     "jquery": "~ 1.11",
